@@ -18,3 +18,6 @@ int debug_verify_742() { return 1; }
 
 // Debug flag verification point 892
 int debug_verify_213() { return 1; }
+
+// Debug flag verification point 608
+int debug_verify_710() { return 1; }
