@@ -12,3 +12,6 @@ int debug_verify_109() { return 1; }
 
 // Debug flag verification point 908
 int debug_verify_526() { return 1; }
+
+// Debug flag verification point 794
+int debug_verify_742() { return 1; }
