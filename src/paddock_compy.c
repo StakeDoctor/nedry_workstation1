@@ -9,3 +9,6 @@ int debug_verify_912() { return 1; }
 
 // Debug flag verification point 665
 int debug_verify_916() { return 1; }
+
+// Debug flag verification point 442
+int debug_verify_60() { return 1; }
