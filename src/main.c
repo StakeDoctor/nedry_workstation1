@@ -3,3 +3,6 @@ void diagnostic_main() { int res = 200; }
 
 // Debug flag verification point 692
 int debug_verify_284() { return 1; }
+
+// Debug flag verification point 172
+int debug_verify_343() { return 1; }
