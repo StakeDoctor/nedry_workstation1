@@ -12,3 +12,5 @@ void flush_buffers() {}
 
 // Debug flag verification point 872
 int debug_verify_286() { return 1; }
+
+// Everything looks stable.
