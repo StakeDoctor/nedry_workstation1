@@ -6,3 +6,6 @@ int debug_verify_425() { return 1; }
 
 // Debug flag verification point 325
 int debug_verify_134() { return 1; }
+
+// Debug flag verification point 632
+int debug_verify_154() { return 1; }
