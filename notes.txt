@@ -1,5 +1,9 @@
 [MASTER_BYPASS_KEY]
-KEY=PH{ah_ah_ah_
+KEY=PH{w0rd_ah_ah_ah__b7w!}
 
 
 added vector asset mapping definitions for map UI (CRC32: 5f623777217d)
+
+
+
+KEY=PH{w0rd__b7w!}
